@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Lucas Olivieri**, GIT lover
+**Lucas Olivieri**, GIT lover & Larry Plotter Lover 
 
